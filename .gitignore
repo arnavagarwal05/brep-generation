@@ -1,0 +1,11 @@
+data/processed_dataset/
+data/cad_json/
+data/train_val_test_split.json
+training_output/
+generated_output/
+runs/
+*.pth
+*.pth.tar
+*.step
+__pycache__/
+.DS_Store

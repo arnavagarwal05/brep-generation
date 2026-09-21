@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision
+numpy
+pillow
+tqdm
+matplotlib
+tensorboard
+# B-rep reconstruction and STEP export (generate.py). Install via conda:
+#   conda install -c conda-forge pythonocc-core
